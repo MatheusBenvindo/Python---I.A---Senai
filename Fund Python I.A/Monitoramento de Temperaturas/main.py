@@ -25,7 +25,6 @@ class MonitorDeTemperatura:
         return analise_estatistica
 
     def VerificarTemp(self):
-        # condicional que verifica as temperatures entre 20 e 80 graus
         foraLimite = False
         for temp in self.listaTemperaturas:
             if temp < 20 or temp > 80:

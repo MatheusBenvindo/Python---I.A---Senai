@@ -1,4 +1,3 @@
-# Lista de destinos com características
 destinos = [
     {
         "nome": "Rio de Janeiro",
