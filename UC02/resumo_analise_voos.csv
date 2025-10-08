@@ -1,0 +1,12 @@
+Métrica,Valor
+Total_Voos,100
+Companhias_Aereas,7
+Aeroportos_Origem,7
+Aeroportos_Destino,7
+Distancia_Media_Milhas,2897.62
+Atraso_Medio_Partida_Min,10.625
+Atraso_Medio_Chegada_Min,4.95
+Companhia_Mais_Voos,SW
+Rota_Mais_Popular,GRU → SFO
+Mes_Mais_Movimentado,Janeiro
+Dia_Semana_Mais_Movimentado,Segunda-feira
