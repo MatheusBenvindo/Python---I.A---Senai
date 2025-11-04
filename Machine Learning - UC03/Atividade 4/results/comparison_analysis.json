@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-11-04T11:01:50.691289",
+  "real_time_metrics": {
+    "records_processed": 5,
+    "avg_time_ms": 5.3998,
+    "total_time_ms": 26.999,
+    "throughput_per_second": 185.19204414978333
+  },
+  "batch_metrics": {
+    "records_processed": 30,
+    "avg_time_ms": 0.26680000000000004,
+    "total_time_ms": 8.004000000000001,
+    "throughput_per_second": 3748.1259370314838
+  },
+  "consistency_analysis": {
+    "correlation": 0.9999999999999998,
+    "samples_compared": 5
+  },
+  "performance_ratio": {
+    "speed_improvement": 20.239130434782606,
+    "throughput_improvement": 20.239130434782606
+  }
+}

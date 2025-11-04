@@ -1,0 +1,6 @@
+prediction,prediction_label,probability_no_delay,probability_delay,confidence,input_data,response_time_ms,request_id
+0,No Horário,0.9658855199813843,0.03411450237035751,0.9658855199813843,"{'airline': 'SkyWings', 'origin': 'GRU', 'destination': 'REC', 'departure_hour': 8, 'day_of_week': 1, 'weather': 'Clear'}",5.002999999999999,1
+0,No Horário,0.9672421216964722,0.032757848501205444,0.9672421216964722,"{'airline': 'SkyWings', 'origin': 'GRU', 'destination': 'REC', 'departure_hour': 11, 'day_of_week': 2, 'weather': 'Clear'}",5.001,2
+0,No Horário,0.8710805773735046,0.12891943752765656,0.8710805773735046,"{'airline': 'SkyWings', 'origin': 'GRU', 'destination': 'REC', 'departure_hour': 14, 'day_of_week': 3, 'weather': 'Clear'}",4.995,3
+0,No Horário,0.9209924340248108,0.0790075734257698,0.9209924340248108,"{'airline': 'SkyWings', 'origin': 'GRU', 'destination': 'REC', 'departure_hour': 17, 'day_of_week': 4, 'weather': 'Clear'}",6.002999999999999,4
+0,No Horário,0.8373973965644836,0.16260261833667755,0.8373973965644836,"{'airline': 'SkyWings', 'origin': 'GRU', 'destination': 'REC', 'departure_hour': 20, 'day_of_week': 5, 'weather': 'Clear'}",5.997,5
